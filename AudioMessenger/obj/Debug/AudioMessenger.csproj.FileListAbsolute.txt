@@ -1,0 +1,17 @@
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\MainWindow.g.cs
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger_MarkupCompile.cache
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger_MarkupCompile.lref
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\bin\Debug\AudioMessenger.exe.config
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\bin\Debug\AudioMessenger.exe
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\bin\Debug\AudioMessenger.pdb
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\bin\Debug\NAudio.dll
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\bin\Debug\NAudio.xml
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\App.g.cs
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\MainWindow.baml
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.g.resources
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.Properties.Resources.resources
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.csproj.GenerateResource.cache
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.csproj.CopyComplete
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.exe
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.pdb
+C:\Users\home\source\repos\AudioMessenger\AudioMessenger\obj\Debug\AudioMessenger.csprojAssemblyReference.cache
